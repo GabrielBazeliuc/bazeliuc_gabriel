@@ -29,4 +29,9 @@ body{
     color: #21deb1;
     border: 12px;
 }
+table, th, td {
+    border-collapse: collapse;
+    border: 2px solid #c4ff00;
+
+}
 </style>
